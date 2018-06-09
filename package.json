@@ -1,0 +1,17 @@
+{
+  "name": "vegetable-comparison",
+  "version": "1.0.0",
+  "description": "A page to compare nutritional quality of different foods",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sam pritchard",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
